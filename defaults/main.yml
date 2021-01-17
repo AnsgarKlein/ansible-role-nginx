@@ -1,0 +1,7 @@
+---
+# General settings
+nginx_enabled: true
+
+nginx_worker_processes:   'auto'
+nginx_worker_connections: '1024'
+...
